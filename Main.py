@@ -60,7 +60,7 @@ class Solution:
         Arguments:
             character: A character that will be pushed to the stack.
         """
-        if not self.is_stack_full():
+        if not self.is__stack__full():
             self.stack.append(character)
             self.top += 1
 
