@@ -38,7 +38,7 @@ class Solution:
         """
         return self.front == -1 or self.front > self.rear
 
-    def is_stack_full(self):
+    def is__stack__full(self):
         """
         Check whether the stack is full.
         Returns:
